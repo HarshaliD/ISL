@@ -7,11 +7,18 @@ With Saathi, we envision an **inclusive and accessible** world where technology 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tech Stack
+
 **Frontend** - HTML , CSS , JavaScript
+
 **Backend** - Flask , OpenCV , MediaPipe , Transformers
+
 **Deep Learning** - PyTorch 
+
 PHASE 1 - **LSTM**
+
 PHASE 2 - **TimeSformer**
+
 **Database (Future Enhancements)** - MongoDB
+
 **Deployment** - AWS, Docker , Netlify
 
