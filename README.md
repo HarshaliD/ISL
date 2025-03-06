@@ -26,3 +26,5 @@ PHASE 2 - **TimeSformer**
 **Deployment** - AWS, Docker , Netlify
 
 -----------------------------------------------------
+#### Flow Diagram
+![Alt text](FlowDiagram.png)
