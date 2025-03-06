@@ -5,6 +5,9 @@ Powered by **advanced deep learning models, computer vision, and natural languag
 
 With Saathi, we envision an **inclusive and accessible** world where technology fosters meaningful conversations, enhances social interactions, and bridges the communication gap for the deaf and mute community of India.
 
+
+#### [Watch Demo Video](ISL\SAATHI_APP_FOR_INDIAN_COMMUNITY.mp4)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tech Stack
 
@@ -22,3 +25,4 @@ PHASE 2 - **TimeSformer**
 
 **Deployment** - AWS, Docker , Netlify
 
+-----------------------------------------------------
