@@ -11,7 +11,7 @@ With Saathi, we envision an **inclusive and accessible** world where technology 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tech Stack
 
-**Frontend** - HTML , CSS , JavaScript
+**Frontend** - Streamlit
 
 **Backend** - Flask , OpenCV , MediaPipe , Transformers
 
